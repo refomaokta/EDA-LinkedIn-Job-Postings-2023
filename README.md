@@ -1,7 +1,7 @@
 # EDA-LinkedIn-Job-Postings-2023
 Exploratory data analysis based on Linkedin Job Postings 2023
 
-Some highlight in this project :
+Some highlights in this project :
 1.	Data cleansing & data preparation
 2.	Visualization
    - Top 10 Industries by Job Postings
